@@ -1,0 +1,20 @@
+.texti1 {
+    width: 350px;
+    height: 160px;
+    color: #777777;
+    font-weight: 400;
+    text-align: center;
+}
+h2{
+    width: 1280px;
+    height: 26px;
+    color: #001AFF;
+    text-align: center;
+}
+.texti2 {
+    width: 350px;
+    height: 160px;
+    margin-left: 72px;
+    color: #FF0000;
+    text-align: justify;
+}
